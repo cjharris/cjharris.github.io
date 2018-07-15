@@ -6,11 +6,9 @@ permalink: /resume/
 
 <img src="/image/ClaudeMonet.RiverSeine.jpg" alt="monet">
 
+<center>
 <br>
-Professional
-
-<a href="https://github.com/cjharris/datascience/blob/master/image/brochure.pdf">Brochure</a>
-
-Educational
-
-<a href="https://github.com/cjharris/datascience/blob/master/image/portfolio.pdf">Portfolio</a>
+<a href="/link/brochure.pdf">Professional Brochure</a>
+<br>
+<a href="/link/portfolio.pdf">Educational Portfolio</a>
+</center>

@@ -8,11 +8,11 @@ permalink: /computation/
 
 <br>
 Statistics
-
-<a href="http://htmlpreview.github.io/?https://github.com/cjharris/datascience/blob/master/computation/lung.html">Lung Cancer Study</a>
+<br>
+<a href="/link/lung.html">Lung Cancer Study</a>
 
 Neuroscience
-
-<a href="http://htmlpreview.github.io/?https://github.com/cjharris/datascience/blob/master/computation/sta.html">Spike-Triggered Average</a>
-
-<a href="http://htmlpreview.github.io/?https://github.com/cjharris/datascience/blob/master/computation/tune.html">Neural Tuning Curve</a>
+<br>
+<a href="/link/sta.html">Spike-Triggered Average</a>
+<br>
+<a href="/link/tune.html">Neural Tuning Curve</a>
