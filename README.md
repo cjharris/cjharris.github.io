@@ -1,2 +1,7 @@
 # cjharris.github.io
-Professional Website
+#### Professional website created with jekyll
+![image](image/AaronShattuck.MountWashington.jpg)
+
+http://cjharris.tk/
+https://cjharris.github.io/
+cjharris@alumni.rutgers.edu
