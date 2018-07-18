@@ -13,7 +13,7 @@ Peripheral interests:
   <li>Computer programming</li>
   <li>Web design</li>
   <li>Technical analysis of financial instruments</li>
-  <li>Fundamental evaluation of technology/biotech issues</li>
+  <li>Fundamental evaluation of tech/biotech issues</li>
   <li>Python based quantitative investment strategies</li>
   <li>C# development of MultiChart indicators</li>
 </ul>
