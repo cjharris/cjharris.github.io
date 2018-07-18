@@ -23,6 +23,6 @@ Class Paper
 <br>
 Research Proposal
 
-<a href="/link/real-time-reflectometry-of-ga-based-compound-semiconductor-films-on-silicon-during-plasma-enhanced-molecular-beam-epitaxy.pdf">Real Time Reflectometry of Ga–based Compound Semiconductor Films on Silicon during Plasma Enhanced Molecular Beam Epitaxy</a>
+<a href="/link/real-time-reflectometry-of-ga-based-compound-semiconductor-films-on-silicon-during-plasma-enhanced-molecular-beam-epitaxy.pdf">Real Time Reflectometry of Ga–based Compound Semiconductor Films on Silicon during Plasma Enhanced MBE</a>
 <br>
 Master’s Thesis
