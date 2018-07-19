@@ -25,7 +25,7 @@ Peripheral interests:
   <li>C# development of MultiChart indicators</li>
 </ul>
 
-Supplimental material
+Supplemental material
 <br>
 <a href="/link/brochure.pdf">Professional Brochure</a>
 <br>
