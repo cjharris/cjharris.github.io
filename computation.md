@@ -11,6 +11,10 @@ Optics
 <br>
 <a href="/link/reflect.html">Silicon Reflectometry</a>
 
+Finance
+<br>
+<a href="/link/quant.html">Quantitative Analysis</a>
+
 Neuroscience
 <br>
 <a href="/link/sta.html">Spike-Triggered Average</a>
