@@ -14,6 +14,8 @@ Optics
 Finance
 <br>
 <a href="/link/quant.html">Quantitative Analysis</a>
+<br>
+<a href="/link/indicator.html">Indicator Evaluation</a>
 
 Neuroscience
 <br>
