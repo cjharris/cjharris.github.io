@@ -23,6 +23,8 @@ Semiconductors
 <br>
 <a href="/link/reflect.html">Silicon Reflectometry</a>
 <br>
+<a href="/link/laser.html">Laser Process Control</a>
+<br>
 <a href="/link/stress.html">Amorphous Silicon Stress</a>
 
 Statistics
