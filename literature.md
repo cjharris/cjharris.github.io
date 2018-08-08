@@ -17,7 +17,11 @@ Research Review
 
 <a href="/link/electrochemical-properties-of-diamond-electrode-materials.pdf">Electrochemical Properties of Diamond Electrode Materials</a>
 <br>
-Class Paper
+Electrochemistry
+
+<a href="/link/weak-interactions-hydrogen-bonds-and-van-der-waals-forces-applications-on-the-fringe.pdf">Weak Interactions: Hydrogen Bonds and van der Waals Forces Applications on the Fringe</a>
+<br>
+Quantum Chemistry
 
 <a href="/link/funding-request-for-noble-gas-transition-metal-interactions.pdf">Funding Request for Noble Gas–Transition Metal Interactions</a>
 <br>
