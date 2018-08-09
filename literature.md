@@ -7,13 +7,6 @@ permalink: /literature/
 <img src="/image/JacobVanRuisdael.Windmill.jpg" alt="ruisdael">
 
 <br>
-<a href="/link/dna-hybridization-detection.pdf">DNA Hybridization Detection</a>
-<br>
-Departmental Seminar
-
-<a href="/link/methanol-cyclic-voltammetric-observations.pdf">Methanol Cyclic Voltammetric Observations</a>
-<br>
-Research Review
 
 <a href="/link/electrochemical-properties-of-diamond-electrode-materials.pdf">Electrochemical Properties of Diamond Electrode Materials</a>
 <br>
@@ -22,6 +15,14 @@ Electrochemistry
 <a href="/link/a-theoretical-perspective-of-vapor-interactions-with-metal-surfaces.pdf">A Theoretical Perspective of Vapor Interactions with Metal Surfaces</a>
 <br>
 Surface Chemistry
+
+<a href="/link/dna-hybridization-detection.pdf">DNA Hybridization Detection</a>
+<br>
+Department Seminar
+
+<a href="/link/characterization-of-organic-semiconductor-films.pdf">Characterization of Organic Semiconductor Films</a>
+<br>
+Class Presentation
 
 <a href="/link/funding-request-for-noble-gas-transition-metal-interactions.pdf">Funding Request for Noble Gas–Transition Metal Interactions</a>
 <br>
