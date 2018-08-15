@@ -21,9 +21,9 @@ Neuroscience
 
 Quantum Chemistry
 <br>
-<a href="/link/butadiene-conformational-preferences.pdf">Butadiene Conformational Preferences</a>
+<a href="/link/but.html">Butadiene Conformational Preferences</a>
 <br>
-<a href="/link/polychlorinated-biphenyls-a-molecular-mechanical-perspective.pdf">Polychlorinated Biphenyls: A Molecular Mechanical Perspective</a>
+<a href="/link/pcb.html">A Molecular Mechanical Perspective of Polychlorinated Biphenyls</a>
 
 Semiconductors
 <br>
