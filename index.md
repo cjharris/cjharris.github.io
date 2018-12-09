@@ -14,7 +14,7 @@ Overview
 <br>
 <a href="/link/resume.pdf">Resume</a>
 
-Peripheral interests:
+Peripheral interest:
 <ul>
   <li>Web design</li>
   <li>Computer programming</li>
