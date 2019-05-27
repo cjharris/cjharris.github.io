@@ -4,7 +4,7 @@ title: Computation
 permalink: /computation/
 ---
 
-<img src="/image/WinslowHomer.BreezingUp.jpg" alt="homer">
+<img src="/image/EugeneVonGuerard.LakeWakatipu.jpg" alt="von guerard">
 
 <br>
 Finance
