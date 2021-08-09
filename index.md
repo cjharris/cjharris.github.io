@@ -14,7 +14,7 @@ Overview
 <br>
 <a href="/link/resume.pdf">Resume</a>
 
-Peripheral interests:
+Peripheral interest:
 <ul>
   <li>Web design</li>
   <li>Computer programming</li>
@@ -25,8 +25,6 @@ Peripheral interests:
   <li>C# development of MultiChart indicators</li>
 </ul>
 
-Supplemental material
+Summary
 <br>
-<a href="/link/brochure.pdf">Professional Brochure</a>
-<br>
-<a href="/link/portfolio.pdf">Educational Portfolio</a>
+<a href="/link/profile.pdf">Profile</a>
