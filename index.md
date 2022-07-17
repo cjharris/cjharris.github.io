@@ -24,7 +24,3 @@ Peripheral interest:
   <li>Python based quantitative investment strategies</li>
   <li>C# development of MultiChart indicators</li>
 </ul>
-
-Summary
-<br>
-<a href="/link/profile.pdf">Profile</a>
