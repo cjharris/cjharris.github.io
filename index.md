@@ -19,8 +19,8 @@ Peripheral interest:
   <li>Web design</li>
   <li>Computer programming</li>
   <li>Linux operating systems</li>
-  <li>Technical analysis of financial instruments</li>
-  <li>Fundamental evaluation of technology / pharmaceutical sectors</li>
-  <li>Python based quantitative investment strategies</li>
-  <li>C# development of MultiChart indicators</li>
+  <li>Renewable energy</li>
+  <li>Ecosystem sustainability</li>
+  <li>Regenerative agriculture</li>
+  <li>Circular economy</li>
 </ul>
